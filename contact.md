@@ -3,24 +3,23 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [zhesong@umich.edu](mailto:zhesong@umich.edu)
 
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+* Lab Website: www.percom.club
 
 ---
 
-## Social
+## Office Hours
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+> Thursday & Friday afternoon
+>
+> CIS Building, Room 236
+>
+> UMDearborn
+
+---
+
+## Links
+
+1. [Google Scholar](#https://scholar.google.com/citations?user=AuM95y8AAAAJ)
+2. [Linkedin](#https://www.linkedin.com/in/zheng-song-58a67a24/)
