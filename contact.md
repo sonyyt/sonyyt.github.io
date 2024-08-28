@@ -18,8 +18,3 @@ is_contact: true
 > UMDearborn
 
 ---
-
-## Links
-
-1. [Google Scholar](#https://scholar.google.com/citations?user=AuM95y8AAAAJ)
-2. [Linkedin](#https://www.linkedin.com/in/zheng-song-58a67a24/)
